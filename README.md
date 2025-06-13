@@ -1,6 +1,6 @@
 
 '''
-html
+htm
 <head>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4180135997218144"
      crossorigin="anonymous"></script>
