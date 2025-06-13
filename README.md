@@ -1,6 +1,6 @@
 
 '''
-<htm>
+html
 <head>
   <title>MSGH</title>
 </head>
@@ -13,5 +13,5 @@
 <h1>Welcome to Msgh...</h1>
   
 </body>
-</html>
+
 '''
