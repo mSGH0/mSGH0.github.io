@@ -13,8 +13,9 @@ html
  <p>
 FYERS EDU - Paga Loading...
 # visit https://msgh0.github.io/fyersedu.html
-<br># EYe Of tThe worRD 
-# visit https://msgh0.github.io/centerheating/eyeoftheword
+<br>
+[Eye Post World)(https://msgh0.github.io/)
+
 
 
 
