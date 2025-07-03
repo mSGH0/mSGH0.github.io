@@ -85,7 +85,7 @@ footer div h6{
 
 /*responsiveness - will finish the crestion*/
 @media only screen and (max-width: 1080px){
-  header{
+  .header{
     background: yellow;
   }
   
@@ -98,8 +98,8 @@ footer div h6{
   }
 }
 @media only screen and (max-width: 720px){
-  header{
-    background: yellow;
+  .header{
+    background: green;
   }
   
   .file-con{
@@ -111,9 +111,9 @@ footer div h6{
   }
 }
 
-@media screen(max-width >= 540){
-  header{
-    background: yellow;
+@media screen(max-width: 540px){
+  .header{
+    background: violet;
   }
   
   .file-con{
