@@ -12,7 +12,7 @@ html
 <h1>Welcome to Msgh...</h1>
  <p>
 FYERS EDU - Paga Loading...
-# visit https://msgh0.github.io/fyersedu.html
+# visit [FYERS Edu](https://msgh0.github.io/fyersedu.html)
 <br>
 [Eye Post World)(https://msgh0.github.io/)
 
