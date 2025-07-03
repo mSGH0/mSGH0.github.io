@@ -1,0 +1,126 @@
+.header{
+  height: 10vh;
+  background: var(--colE);
+}
+.title{
+  height: 100%;
+  background: var(--colB);
+}
+.marqueetit{
+  background: var(--colC);
+  position: sticky;
+}
+
+#brand{
+  font-weight: bolder;
+  font-size: 4vh;
+  color: red;
+}
+
+/* Main */
+.main{
+  height: 50vh;
+  background: var(--colA);
+}
+
+.file-con{
+   width: 100%; 
+   height: auto; 
+   background: blue;
+   background: var(--colC); 
+   border-radius: 20px; 
+   padding:2vh 1vh; 
+   margin: 3vh 0;
+   border: 2px solid var(--colE);
+}
+.file-con img,
+.file-con video{
+  width:100%;
+  height: 70vh;
+}
+.file-con video{
+  background: #000000;
+}
+.comment{
+  margin: 5vh 0;
+  font-weight: bolder;
+}
+
+/* Footer */
+.footer{
+  width: 100%; 
+  height: 90vh; 
+  background: var(--colG);
+  padding: 0;
+  box-sizing: content-box;
+}
+
+
+footer div h4{
+  margin: 3vh 0;
+  color: rgba(255,255,255,0.9);
+  font-weight: bold;
+  font-style: ;
+  background: var(--colI);
+}
+
+footer div div, 
+footer div div a{
+  color: rgba(255,255,255,0.8);
+  font-weight: bold;
+  margin: 1vh 0;
+}
+
+footer div h6{
+  color: #003366;
+  margin: 1.5vh 0;
+}
+.footer2{
+  height: 10vh;
+  background: var(--colF);
+}
+.footer2 div, footer2 a{
+  color: rgba(255,255,255,0.8);
+}
+
+/*responsiveness - will finish the crestion*/
+@media screen(max-width >  1080){
+  header{
+    background: yellow;
+  }
+  
+  .file-con{
+    
+   }
+  
+  footer{
+    
+  }
+}
+@media screen(max-width >= 720){
+  header{
+    background: yellow;
+  }
+  
+  .file-con{
+    
+   }
+  
+  footer{
+    
+  }
+}
+
+@media screen(max-width >= 540){
+  header{
+    background: yellow;
+  }
+  
+  .file-con{
+    
+   }
+  
+  footer{
+    
+  }
+}
