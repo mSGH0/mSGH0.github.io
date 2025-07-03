@@ -84,7 +84,7 @@ footer div h6{
 }
 
 /*responsiveness - will finish the crestion*/
-@media screen(max-width >  1080){
+@media only screen and (max-width: 1080px){
   header{
     background: yellow;
   }
@@ -97,7 +97,7 @@ footer div h6{
     
   }
 }
-@media screen(max-width >= 720){
+@media only screen and (max-width: 720px){
   header{
     background: yellow;
   }
