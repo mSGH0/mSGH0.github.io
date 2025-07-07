@@ -14,7 +14,7 @@ html
 FYERS EDU - Paga Loading...
 # visit [FYERS Edu](https://msgh0.github.io/fyersedu.html)
 <br>
-[Eye Post World)(https://msgh0.github.io/eyepostword.html)
+[Eye Post World](https://msgh0.github.io/eyepostword.html)
 
 
 
